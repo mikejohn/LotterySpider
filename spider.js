@@ -5,7 +5,7 @@
  * Time: 2:34 PM
  * To change this template use File | Settings | File Templates.
  */
-var http = require('http');
-var dota2 = require('./Sites/dota2lounge.js');
+var dota2 = require('./sites/dota2lounge.js');
+console.log('run!');
 dota2.run();
 
